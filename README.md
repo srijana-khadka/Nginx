@@ -5,3 +5,7 @@
 * nginx-1.20
 * nginx-1.22
 * nginx-1.23.3
+> RHEL versions currently supported are:
+* RHEL7
+* RHEL8
+* RHEL9
