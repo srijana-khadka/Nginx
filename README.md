@@ -9,3 +9,7 @@
 * RHEL7
 * RHEL8
 * RHEL9
+> CentOS versions currently supported are:
+* CentOS7
+* CentOS Stream 8
+* CentOS Stream 9
