@@ -20,4 +20,4 @@
 # Installation
 >Choose either the CentOS7 or RHEL7 based image:
 * RHEL7 based image
-> These images are available in the Red Hat Container Catalog. To download it run:
+  > These images are available in the Red Hat Container Catalog. To download it run:
