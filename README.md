@@ -1,8 +1,7 @@
 # Create Nginx image on docker
 - docker pull nginx:latest
-# Nginx Container Images
-> Images available on Quay are:
-* CentOS 7 nginx:latest
+# Create Nginx Container Images
+- docker run -d -p 8080:80 --name nginx1 nginx
 > This repository contains Dockerfiles for Nginx images for OpenShift. Users can choose between RHEL, Fedora, CentOS and CentOS Stream based images.
 #  Versions
 > Nginx versions currently provided are:
