@@ -12,5 +12,7 @@
 * CentOS Stream 8
 * CentOS Stream 9
 # How do i create dockerfile on docker images
+> create folder
+ - mkdir nginx
 
  
